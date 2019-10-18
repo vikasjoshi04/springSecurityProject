@@ -17,7 +17,7 @@ import com.fasterxml.jackson.annotation.JsonIgnore;
 @Entity
 @Table(name = "user_info")
 public class User {
-	
+	//Test comment
 	public enum Gender {
 		Male, Female
 	};
