@@ -1,0 +1,14 @@
+"2019-10-18 11:32:51 [restartedMain] ERROR o.s.b.c.l.LoggingApplicationListener - Cannot set level 'WARN, INFO' for 'com.hits.vicinity.adapter'
+""2019-10-18 11:32:51 [restartedMain] INFO  c.s.SpringSecurityApplication - Starting SpringSecurityApplication on CISM438 with PID 6047 (/home/cis/git/SpringBootSecurityCRUD/springSecurity/target/classes started by cis in /home/cis/git/SpringBootSecurityCRUD/springSecurity)
+""2019-10-18 11:32:51 [restartedMain] INFO  c.s.SpringSecurityApplication - No active profile set, falling back to default profiles: default
+""2019-10-18 11:32:54 [restartedMain] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+""2019-10-18 11:32:54 [restartedMain] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.26]
+""2019-10-18 11:32:54 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+""2019-10-18 11:32:55 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+""2019-10-18 11:32:55 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+""2019-10-18 11:32:59 [restartedMain] WARN  o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration$JpaWebMvcConfiguration - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+""2019-10-18 11:32:59 [restartedMain] INFO  c.s.SpringSecurityApplication - Started SpringSecurityApplication in 8.65 seconds (JVM running for 9.822)
+""2019-10-18 11:32:59 [restartedMain] INFO  c.s.SpringSecurityApplication - Data alrady exist in country table...
+""2019-10-18 11:47:15 [RMI TCP Connection(2)-127.0.0.1] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+""2019-10-18 11:47:15 [RMI TCP Connection(2)-127.0.0.1] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+"
